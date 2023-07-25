@@ -1,6 +1,6 @@
 # JavaScript Console
 
-[JavaScript Console Demo] https://frolicking-granita-4851de.netlify.app
+[JavaScript Console Demo]
 
 ## Table of Contents
 - [Introduction](#introduction)
