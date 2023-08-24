@@ -1,6 +1,6 @@
 # JavaScript Console
+![tauhid-javascript-console](https://github.com/Tauhid-Patel/javascript-console/assets/43630196/4eee8337-772d-4477-87a4-74ccef878de6)
 
-[JavaScript Console Demo]
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -14,8 +14,6 @@
 The JavaScript Console is an online interactive tool that allows users to write and execute JavaScript code directly in the browser. It provides a sandboxed environment for testing and experimenting with JavaScript code snippets.
 
 ## Demo
-![JavaScript Console Demo](link-to-demo-gif.gif)
-
 Check out the live demo [here](https://frolicking-granita-4851de.netlify.app)!
 
 ## Features
